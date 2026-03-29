@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "uvisme.aternos.me:",
+    "ip": "uvisme.aternos.me",
     "port": 34405,
     "version": "",
     "try-creative": false
