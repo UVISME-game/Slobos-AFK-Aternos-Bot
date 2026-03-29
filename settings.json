@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
+    "password": "temp",
     "type": "offline"
   },
   "server": {
-    "ip": "uvisme.aternos.me:34405",
+    "ip": "uvisme.aternos.me:",
     "port": 34405,
     "version": "",
     "try-creative": false
